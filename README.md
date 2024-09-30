@@ -20,7 +20,7 @@ To convert a .csv or .xlsx file to .ris, select the input file using the designa
 
 For any issues, please contact: samarth.godara@gmail.com or vinayakrnikam@gmail.com.
 
-# Development Team:
+## Development Team:
 
 ICAR - National Institute of Agricultural Economics and Policy Research, New Delhi, India
 
