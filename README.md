@@ -1,4 +1,4 @@
-# RFT : Review FIle Transcoder Software
+# RFT : Review File Transcoder Software
 
 Download Link : https://drive.google.com/file/d/1HbracoZnn81rfj_8qbQ-UwgzXXiw1tfn/view?usp=sharing
 
@@ -15,6 +15,12 @@ The RFT: Review File Transcoder software streamlines the process of managing bib
 ## Procedure for Opening and Executing the Program
 
 To begin, double-click the downloaded software. If this is your first time running the program, Windows may display a warning. In this case, click on the “More info” option, followed by “Run anyway,” as illustrated in the accompanying figures. Once the software opens, you will see the interface displayed in the figure below.
+
 To convert a .csv or .xlsx file to .ris, select the input file using the designated button; the software will automatically detect the format and execute the conversion accordingly. If you wish to convert a .ris file to .csv, simply select the .ris file as your input. After clicking the “Convert” button, the output .csv file will be generated in the same folder as the software.
 
 For any issues, please contact: samarth.godara@gmail.com or vinayakrnikam@gmail.com.
+
+# Development Institutes:
+
+ICAR - National Institute of Agricultural Economics and Policy Research, New Delhi, India
+ICAR - Indian Agricultural Statistics Research Institute, New Delhi, India
