@@ -22,6 +22,8 @@ For any issues, please contact: samarth.godara@gmail.com or vinayakrnikam@gmail.
 
 ## Development Team:
 
+Dr Vinayak Nikam, Senior Scientist
 ICAR - National Institute of Agricultural Economics and Policy Research, New Delhi, India
 
+Dr Samarth Godara, Scientist
 ICAR - Indian Agricultural Statistics Research Institute, New Delhi, India
